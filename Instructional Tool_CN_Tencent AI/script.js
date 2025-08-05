@@ -1,1 +1,380 @@
-function _0x5c19(_0x187890,_0xd97bcb){const _0x484c38=_0x484c();return _0x5c19=function(_0x5c19bb,_0x222d13){_0x5c19bb=_0x5c19bb-0x1b3;let _0x5e5a64=_0x484c38[_0x5c19bb];return _0x5e5a64;},_0x5c19(_0x187890,_0xd97bcb);}const _0x4e4de0=_0x5c19;function _0x484c(){const _0x1ed78a=['all','https://yuanqi.tencent.com/agent/LL0m3lQv0zo8','offsetHeight','href','searchInput','13lzVesi','dataset','engagement','内容关联生成','fa-solid\x20fa-link','171SHfiLy','appendChild','primary','trim','tool-icon','清晰指令生成','Remove\x20from\x20favorites','44eWEaKe','span','click','toolsGrid','open','setAttribute','398421yykBPa','icon','none','filter','调整文本的阅读难度，使其更复杂或更简单。','tool-description','url','fa-solid\x20fa-anchor','textarea','fa-solid\x20fa-calendar-days','openLink','aria-label','618hPfvtI','style','badge\x20badge-','评估工具','setItem','emptyState','<i\x20class=\x22fa-regular\x20fa-star\x22></i>','https://yuanqi.tencent.com/agent/FSZ7T7x3Sqa8','lang','value','英文文本','22748ELEXLd','assessment','fa-solid\x20fa-tasks','fa-solid\x20fa-align-left','tool-footer','tool-title','description','add-to-list-btn','fa-solid\x20fa-robot','Add\x20to\x20favorites','querySelector','getElementById','fa-solid\x20fa-ticket','选择题评估生成','actions','64408UuMQXY','\x22></i>','https://yuanqi.tencent.com/agent/AolEMzp3h0jy','获取智能体','location','<i\x20class=\x22','fa-solid\x20fa-language','.language-btn','短文本','my-list','课堂小结卡','type','课堂互动','中文文本','\x22></i>\x20','https://yuanqi.tencent.com/agent/VGG01iZUTK8j','title','getItem','./pa-template/index.html','为作业和活动生成简明易懂的指令。','表现性任务设计工具','forEach','DOMContentLoaded','contains','https://yuanqi.tencent.com/agent/AbYoIQ1jMG3m','fa-solid\x20fa-ruler','name','文本分段','.category-btn[data-category=\x22all\x22]','fa-solid\x20fa-comments','removeItem','将课程内容与学生生活和兴趣关联，提升参与度。','tool-card','planning','active','tool_','classList','讨论引导语生成','<i\x20class=\x22fa-solid\x20fa-star\x22></i>','366065sCKBjn','tool-btn\x20secondary','tool-btn','5581068aKHVlg','label','8146ubDUJy','创建课后快速评估，检查学生理解情况。','opacity','fa-solid\x20fa-list-check','innerHTML','https://yuanqi.tencent.com/agent/s8hZA9JPvhk7','fa-solid\x20fa-bars','19271RIXsMU','includes','chinese-text-btn','.category-btn.active','设计有吸引力的课程导入，激发学生兴趣。','category','input','true','../Instructional\x20Tool_En/index.html','https://yuanqi.tencent.com/agent/UpGCq8RLnn4y','_blank','设计有趣的讨论引导语，促进课堂交流。','设计真实的表现性任务，评估学生的深度理解。','addEventListener','长文本','textContent','add','createElement','270VyaVGu','added','remove','16gqcNxl','fa-solid\x20fa-file-lines','toLowerCase','div','fa-solid\x20fa-hand','display','flex','body','className','https://yuanqi.tencent.com/agent/Zv63iKK9MgWl','https://yuanqi.tencent.com/agent/g6EqCe7eKo2o','length'];_0x484c=function(){return _0x1ed78a;};return _0x484c();}(function(_0x138f66,_0xae48af){const _0x4a3272=_0x5c19,_0x521243=_0x138f66();while(!![]){try{const _0x527117=-parseInt(_0x4a3272(0x1c9))/0x1*(parseInt(_0x4a3272(0x202))/0x2)+parseInt(_0x4a3272(0x208))/0x3+-parseInt(_0x4a3272(0x1e5))/0x4*(parseInt(_0x4a3272(0x1c4))/0x5)+-parseInt(_0x4a3272(0x214))/0x6*(-parseInt(_0x4a3272(0x1d0))/0x7)+-parseInt(_0x4a3272(0x22e))/0x8*(parseInt(_0x4a3272(0x1fb))/0x9)+-parseInt(_0x4a3272(0x1e2))/0xa*(parseInt(_0x4a3272(0x21f))/0xb)+-parseInt(_0x4a3272(0x1c7))/0xc*(-parseInt(_0x4a3272(0x1f6))/0xd);if(_0x527117===_0xae48af)break;else _0x521243['push'](_0x521243['shift']());}catch(_0x117bf7){_0x521243['push'](_0x521243['shift']());}}}(_0x484c,0x30f8a),document[_0x4e4de0(0x1dd)](_0x4e4de0(0x1b3),()=>{const _0x4f89b0=_0x4e4de0,_0x2cd709=document[_0x4f89b0(0x22a)](_0x4f89b0(0x205)),_0x1cde46=document[_0x4f89b0(0x22a)](_0x4f89b0(0x1f5)),_0x96ea24=document['querySelectorAll']('.category-btn'),_0x287526=document[_0x4f89b0(0x22a)](_0x4f89b0(0x219)),_0x368fd1=document[_0x4f89b0(0x22a)]('btnResetSearch'),_0x47db93=[{'icon':_0x4f89b0(0x221),'title':_0x4f89b0(0x242),'description':_0x4f89b0(0x1dc),'category':'assessment','isFavorited':![],'formFields':[],'actions':[{'name':_0x4f89b0(0x212),'label':'打开工具','type':_0x4f89b0(0x1fd),'url':_0x4f89b0(0x240)}]},{'icon':_0x4f89b0(0x1b6),'title':'文本难度调整','description':_0x4f89b0(0x20c),'category':_0x4f89b0(0x1be),'isFavorited':!![],'formFields':[_0x4f89b0(0x210)],'actions':[{'name':_0x4f89b0(0x212),'label':_0x4f89b0(0x21e),'type':_0x4f89b0(0x1fd),'url':_0x4f89b0(0x1ce)},{'name':_0x4f89b0(0x212),'label':_0x4f89b0(0x23b),'type':_0x4f89b0(0x1fd),'url':'https://yuanqi.tencent.com/agent/iomAX06eLMBI'}]},{'icon':_0x4f89b0(0x1cf),'title':_0x4f89b0(0x1b8),'description':'将复杂文本分解为易于理解的部分，帮助学生更好地理解。','category':'planning','isFavorited':![],'formFields':[],'actions':[{'name':_0x4f89b0(0x212),'label':_0x4f89b0(0x1de),'type':_0x4f89b0(0x1fd),'url':'https://yuanqi.tencent.com/agent/VGG01iZUTK8j'},{'name':_0x4f89b0(0x212),'label':_0x4f89b0(0x236),'type':'primary','url':_0x4f89b0(0x1b5)}]},{'icon':_0x4f89b0(0x1e6),'title':_0x4f89b0(0x200),'description':_0x4f89b0(0x241),'category':_0x4f89b0(0x1be),'isFavorited':![],'formFields':[],'actions':[{'name':_0x4f89b0(0x212),'label':_0x4f89b0(0x231),'type':_0x4f89b0(0x1fd),'url':_0x4f89b0(0x1f2)}]},{'icon':_0x4f89b0(0x22b),'title':_0x4f89b0(0x238),'description':_0x4f89b0(0x1ca),'category':_0x4f89b0(0x220),'isFavorited':![],'formFields':[],'actions':[{'name':_0x4f89b0(0x212),'label':'获取智能体','type':_0x4f89b0(0x1fd),'url':_0x4f89b0(0x1d9)}]},{'icon':_0x4f89b0(0x20f),'title':'课程导入设计','description':_0x4f89b0(0x1d4),'category':_0x4f89b0(0x1f8),'isFavorited':![],'formFields':[],'actions':[{'name':_0x4f89b0(0x212),'label':_0x4f89b0(0x231),'type':_0x4f89b0(0x1fd),'url':_0x4f89b0(0x21b)}]},{'icon':_0x4f89b0(0x1cc),'title':_0x4f89b0(0x22c),'description':'创建多种主题的选择题评估。','category':_0x4f89b0(0x220),'isFavorited':![],'formFields':[],'actions':[{'name':_0x4f89b0(0x212),'label':_0x4f89b0(0x231),'type':_0x4f89b0(0x1fd),'url':_0x4f89b0(0x230)}]},{'icon':_0x4f89b0(0x1ba),'title':_0x4f89b0(0x1c2),'description':_0x4f89b0(0x1db),'category':_0x4f89b0(0x1f8),'isFavorited':![],'formFields':[],'actions':[{'name':_0x4f89b0(0x212),'label':_0x4f89b0(0x231),'type':_0x4f89b0(0x1fd),'url':_0x4f89b0(0x1ee)}]},{'icon':_0x4f89b0(0x1fa),'title':_0x4f89b0(0x1f9),'description':_0x4f89b0(0x1bc),'category':_0x4f89b0(0x1f8),'isFavorited':![],'formFields':[],'actions':[{'name':_0x4f89b0(0x212),'label':_0x4f89b0(0x231),'type':_0x4f89b0(0x1fd),'url':_0x4f89b0(0x1ef)}]}];function _0x413690(_0x210dfd){const _0x3490ce=_0x4f89b0;let _0x352bc7,_0x9bd728;switch(_0x210dfd){case _0x3490ce(0x1be):_0x352bc7=_0x3490ce(0x211),_0x9bd728='课程设计';break;case _0x3490ce(0x220):_0x352bc7='fa-solid\x20fa-chart-simple',_0x9bd728=_0x3490ce(0x217);break;case'engagement':_0x352bc7='fa-solid\x20fa-users',_0x9bd728=_0x3490ce(0x23a);break;default:_0x352bc7='fa-solid\x20fa-tag',_0x9bd728=_0x210dfd;}return _0x3490ce(0x233)+_0x352bc7+'\x22></i>'+_0x9bd728;}function _0x313749(_0x28065a){const _0x422d40=_0x4f89b0,_0x1280dc=document[_0x422d40(0x1e1)](_0x422d40(0x1e8));_0x1280dc[_0x422d40(0x1ed)]=_0x422d40(0x1bd),_0x1280dc[_0x422d40(0x215)][_0x422d40(0x1cb)]='1',_0x1280dc[_0x422d40(0x1f7)][_0x422d40(0x1d5)]=_0x28065a[_0x422d40(0x1d5)];const _0x3c80d0=document[_0x422d40(0x1e1)](_0x422d40(0x1e8));_0x3c80d0[_0x422d40(0x1ed)]='tool-header';const _0x1a2ad5=document[_0x422d40(0x1e1)](_0x422d40(0x1e8));_0x1a2ad5[_0x422d40(0x1ed)]=_0x422d40(0x1ff),_0x1a2ad5[_0x422d40(0x1cd)]=_0x422d40(0x233)+_0x28065a[_0x422d40(0x209)]+_0x422d40(0x22f);const _0x5e2d71=document['createElement']('h3');_0x5e2d71[_0x422d40(0x1ed)]=_0x422d40(0x224),_0x5e2d71[_0x422d40(0x1df)]=_0x28065a['title'],_0x3c80d0[_0x422d40(0x1fc)](_0x1a2ad5),_0x3c80d0[_0x422d40(0x1fc)](_0x5e2d71);const _0x4bf513=document['createElement'](_0x422d40(0x1e8));_0x4bf513[_0x422d40(0x1ed)]='tool-content';const _0x4b2a62=document[_0x422d40(0x1e1)]('p');_0x4b2a62[_0x422d40(0x1ed)]=_0x422d40(0x20d),_0x4b2a62['textContent']=_0x28065a[_0x422d40(0x225)];const _0x103402=document[_0x422d40(0x1e1)](_0x422d40(0x203));_0x103402[_0x422d40(0x1ed)]=_0x422d40(0x216)+_0x28065a[_0x422d40(0x1d5)],_0x103402[_0x422d40(0x1cd)]=_0x413690(_0x28065a[_0x422d40(0x1d5)]),_0x4bf513[_0x422d40(0x1fc)](_0x4b2a62),_0x4bf513[_0x422d40(0x1fc)](_0x103402);const _0x2480d1=document[_0x422d40(0x1e1)](_0x422d40(0x1e8));_0x2480d1[_0x422d40(0x1ed)]=_0x422d40(0x223);_0x28065a[_0x422d40(0x22d)]&&_0x28065a[_0x422d40(0x22d)][_0x422d40(0x1f0)]>0x0&&_0x28065a['actions'][_0x422d40(0x243)](_0x4ee718=>{const _0x59f7ef=_0x422d40,_0x30c1ac=document['createElement']('button');_0x30c1ac[_0x59f7ef(0x1ed)]=_0x4ee718[_0x59f7ef(0x239)]==='primary'?_0x59f7ef(0x1c6):_0x59f7ef(0x1c5);if(_0x4ee718[_0x59f7ef(0x1c8)]===_0x59f7ef(0x21e))_0x30c1ac[_0x59f7ef(0x1c1)]['add']('english-text-btn');else _0x4ee718[_0x59f7ef(0x1c8)]===_0x59f7ef(0x23b)&&_0x30c1ac[_0x59f7ef(0x1c1)][_0x59f7ef(0x1e0)](_0x59f7ef(0x1d2));let _0x4647a1='';switch(_0x4ee718[_0x59f7ef(0x1b7)]){case'openLink':if(_0x4ee718[_0x59f7ef(0x1c8)]===_0x59f7ef(0x1de))_0x4647a1=_0x59f7ef(0x222);else{if(_0x4ee718['label']===_0x59f7ef(0x236))_0x4647a1='fa-solid\x20fa-align-center';else{if(_0x4ee718[_0x59f7ef(0x1c8)]==='获取智能体')_0x4647a1=_0x59f7ef(0x227);else{if(_0x4ee718[_0x59f7ef(0x1c8)]===_0x59f7ef(0x21e))_0x4647a1=_0x59f7ef(0x234);else{if(_0x4ee718['label']==='中文文本')_0x4647a1='fa-solid\x20fa-language';else _0x4647a1=_0x59f7ef(0x1e9);}}}}break;default:_0x4647a1='fa-solid\x20fa-arrow-right';}_0x30c1ac['innerHTML']='<i\x20class=\x22'+_0x4647a1+_0x59f7ef(0x23c)+_0x4ee718[_0x59f7ef(0x1c8)],_0x30c1ac[_0x59f7ef(0x1dd)](_0x59f7ef(0x204),()=>{const _0x4ab1d9=_0x59f7ef;_0x4ee718[_0x4ab1d9(0x20e)]?window[_0x4ab1d9(0x206)](_0x4ee718['url'],_0x4ab1d9(0x1da)):window[_0x4ab1d9(0x206)](_0x4ab1d9(0x23d),'_blank');}),_0x2480d1[_0x59f7ef(0x1fc)](_0x30c1ac);});const _0x32011b=document[_0x422d40(0x1e1)]('button');_0x32011b['className']=_0x422d40(0x226),_0x32011b[_0x422d40(0x207)](_0x422d40(0x213),_0x422d40(0x228)),_0x32011b[_0x422d40(0x1cd)]=_0x422d40(0x21a);const _0xdea105=localStorage[_0x422d40(0x23f)](_0x422d40(0x1c0)+_0x28065a['title'])===_0x422d40(0x1d7);return _0xdea105&&(_0x32011b['classList']['add'](_0x422d40(0x1e3)),_0x32011b['innerHTML']='<i\x20class=\x22fa-solid\x20fa-star\x22></i>',_0x32011b[_0x422d40(0x207)](_0x422d40(0x213),'Remove\x20from\x20favorites')),_0x32011b['addEventListener'](_0x422d40(0x204),_0x550ba3=>{const _0x1fe5b8=_0x422d40;_0x550ba3['stopPropagation']();const _0x3c484f=_0x32011b['classList'][_0x1fe5b8(0x1b4)](_0x1fe5b8(0x1e3));_0x3c484f?(_0x32011b[_0x1fe5b8(0x1c1)]['remove'](_0x1fe5b8(0x1e3)),_0x32011b[_0x1fe5b8(0x1cd)]=_0x1fe5b8(0x21a),_0x32011b['setAttribute'](_0x1fe5b8(0x213),_0x1fe5b8(0x228)),localStorage[_0x1fe5b8(0x1bb)](_0x1fe5b8(0x1c0)+_0x28065a['title'])):(_0x32011b[_0x1fe5b8(0x1c1)]['add'](_0x1fe5b8(0x1e3)),_0x32011b['innerHTML']=_0x1fe5b8(0x1c3),_0x32011b[_0x1fe5b8(0x207)](_0x1fe5b8(0x213),_0x1fe5b8(0x201)),localStorage[_0x1fe5b8(0x218)](_0x1fe5b8(0x1c0)+_0x28065a['title'],_0x1fe5b8(0x1d7)));}),_0x2480d1[_0x422d40(0x1fc)](_0x32011b),_0x1280dc[_0x422d40(0x1fc)](_0x3c80d0),_0x1280dc[_0x422d40(0x1fc)](_0x4bf513),_0x1280dc[_0x422d40(0x1fc)](_0x2480d1),_0x1280dc;}function _0xad2496(_0x5975dc){const _0x6f0ede=_0x4f89b0;_0x2cd709['innerHTML']='',_0x5975dc[_0x6f0ede(0x1f0)]===0x0?(_0x287526[_0x6f0ede(0x215)][_0x6f0ede(0x1ea)]=_0x6f0ede(0x1eb),_0x2cd709['style'][_0x6f0ede(0x1ea)]='none'):(_0x287526[_0x6f0ede(0x215)][_0x6f0ede(0x1ea)]=_0x6f0ede(0x20a),_0x2cd709[_0x6f0ede(0x215)][_0x6f0ede(0x1ea)]='grid',_0x5975dc[_0x6f0ede(0x243)](_0x44f9bb=>{const _0x425589=_0x313749(_0x44f9bb);_0x2cd709['appendChild'](_0x425589);}));}_0x1cde46[_0x4f89b0(0x1dd)](_0x4f89b0(0x1d6),()=>{_0xd736af();}),_0x368fd1[_0x4f89b0(0x1dd)]('click',()=>{const _0x15ad74=_0x4f89b0;_0x1cde46[_0x15ad74(0x21d)]='',_0xd736af(),_0x1cde46['focus']();});function _0xd736af(){const _0x1fa277=_0x4f89b0,_0x3860c0=_0x1cde46[_0x1fa277(0x21d)][_0x1fa277(0x1e7)]()[_0x1fa277(0x1fe)](),_0x356b4a=document[_0x1fa277(0x229)](_0x1fa277(0x1d3))['dataset'][_0x1fa277(0x1d5)],_0x5e4f40=_0x47db93[_0x1fa277(0x20b)](_0x592740=>{const _0x3bc50b=_0x1fa277,_0x42cfa3=_0x592740['title'][_0x3bc50b(0x1e7)]()['includes'](_0x3860c0)||_0x592740[_0x3bc50b(0x225)][_0x3bc50b(0x1e7)]()[_0x3bc50b(0x1d1)](_0x3860c0);let _0x6726d2=!![];if(_0x356b4a===_0x3bc50b(0x237))_0x6726d2=localStorage[_0x3bc50b(0x23f)]('tool_'+_0x592740[_0x3bc50b(0x23e)])===_0x3bc50b(0x1d7);else _0x356b4a!==_0x3bc50b(0x1f1)&&(_0x6726d2=_0x592740[_0x3bc50b(0x1d5)]===_0x356b4a);return _0x42cfa3&&_0x6726d2;});_0xad2496(_0x5e4f40);}_0x96ea24['forEach'](_0x2aceb4=>{const _0x281145=_0x4f89b0;_0x2aceb4[_0x281145(0x1dd)](_0x281145(0x204),()=>{const _0x2b53d2=_0x281145;_0x96ea24[_0x2b53d2(0x243)](_0x2e32ca=>_0x2e32ca[_0x2b53d2(0x1c1)][_0x2b53d2(0x1e4)](_0x2b53d2(0x1bf))),_0x2aceb4[_0x2b53d2(0x1c1)][_0x2b53d2(0x1e0)](_0x2b53d2(0x1bf)),_0xd736af();});}),setTimeout(()=>{const _0x5f315b=_0x4f89b0;_0x96ea24[_0x5f315b(0x243)](_0x19bb72=>_0x19bb72[_0x5f315b(0x1c1)][_0x5f315b(0x1e4)](_0x5f315b(0x1bf)));const _0x497065=document[_0x5f315b(0x229)](_0x5f315b(0x1b9));_0x497065&&_0x497065[_0x5f315b(0x1c1)][_0x5f315b(0x1e0)]('active'),_0xad2496(_0x47db93),document[_0x5f315b(0x1ec)][_0x5f315b(0x1f3)];},0x0);const _0x17195b=document['querySelectorAll'](_0x4f89b0(0x235));_0x17195b[_0x4f89b0(0x243)](_0x51b31b=>{const _0x4df219=_0x4f89b0;_0x51b31b[_0x4df219(0x1dd)](_0x4df219(0x204),function(){const _0x5d9fc5=_0x4df219,_0x34f222=this[_0x5d9fc5(0x1f7)][_0x5d9fc5(0x21c)];if(_0x34f222==='en')window[_0x5d9fc5(0x232)][_0x5d9fc5(0x1f4)]=_0x5d9fc5(0x1d8);else _0x34f222==='cn'&&(_0x17195b[_0x5d9fc5(0x243)](_0x476a99=>_0x476a99[_0x5d9fc5(0x1c1)][_0x5d9fc5(0x1e4)](_0x5d9fc5(0x1bf))),this[_0x5d9fc5(0x1c1)]['add'](_0x5d9fc5(0x1bf)));});});}));
+// 教学工具脚本 - 中文版
+document.addEventListener('DOMContentLoaded', () => {
+    const toolsGrid = document.getElementById('toolsGrid');
+    const searchInput = document.getElementById('searchInput');
+    const categoryBtns = document.querySelectorAll('.category-btn');
+    const emptyState = document.getElementById('emptyState');
+    const resetBtn = document.getElementById('btnResetSearch');
+
+    // 工具数据
+    const tools = [
+        {
+            icon: 'fa-solid fa-list-check',
+            title: '课堂小结卡',
+            description: '创建课后快速评估，检查学生理解情况。',
+            category: 'assessment',
+            isFavorited: false,
+            formFields: [],
+            actions: [{
+                name: 'openLink',
+                label: '打开工具',
+                type: 'primary',
+                url: 'https://yuanqi.tencent.com/agent/LL0m3lQv0zo8'
+            }]
+        },
+        {
+            icon: 'fa-solid fa-align-left',
+            title: '文本难度调整',
+            description: '调整文本的阅读难度，使其更复杂或更简单。',
+            category: 'planning',
+            isFavorited: true,
+            formFields: ['textarea'],
+            actions: [
+                {
+                    name: 'openLink',
+                    label: '英文文本',
+                    type: 'primary',
+                    url: 'https://yuanqi.tencent.com/agent/FSZ7T7x3Sqa8'
+                },
+                {
+                    name: 'openLink',
+                    label: '中文文本',
+                    type: 'primary',
+                    url: 'https://yuanqi.tencent.com/agent/iomAX06eLMBI'
+                }
+            ]
+        },
+        {
+            icon: 'fa-solid fa-bars',
+            title: '文本分段',
+            description: '将复杂文本分解为易于理解的部分，帮助学生更好地理解。',
+            category: 'planning',
+            isFavorited: false,
+            formFields: [],
+            actions: [
+                {
+                    name: 'openLink',
+                    label: '长文本',
+                    type: 'primary',
+                    url: 'https://yuanqi.tencent.com/agent/VGG01iZUTK8j'
+                },
+                {
+                    name: 'openLink',
+                    label: '短文本',
+                    type: 'primary',
+                    url: './pa-template/index.html'
+                }
+            ]
+        },
+        {
+            icon: 'fa-solid fa-anchor',
+            title: '内容关联生成',
+            description: '将课程内容与学生生活和兴趣关联，提升参与度。',
+            category: 'planning',
+            isFavorited: false,
+            formFields: [],
+            actions: [{
+                name: 'openLink',
+                label: '获取智能体',
+                type: 'primary',
+                url: 'https://yuanqi.tencent.com/agent/AbYoIQ1jMG3m'
+            }]
+        },
+        {
+            icon: 'fa-solid fa-tasks',
+            title: '清晰指令生成',
+            description: '为作业和活动生成简明易懂的指令。',
+            category: 'assessment',
+            isFavorited: false,
+            formFields: [],
+            actions: [{
+                name: 'openLink',
+                label: '获取智能体',
+                type: 'primary',
+                url: 'https://yuanqi.tencent.com/agent/UpGCq8RLnn4y'
+            }]
+        },
+        {
+            icon: 'fa-solid fa-hand',
+            title: '课程导入设计',
+            description: '设计有吸引力的课程导入，激发学生兴趣。',
+            category: 'engagement',
+            isFavorited: false,
+            formFields: [],
+            actions: [{
+                name: 'openLink',
+                label: '获取智能体',
+                type: 'primary',
+                url: 'https://yuanqi.tencent.com/agent/Zv63iKK9MgWl'
+            }]
+        },
+        {
+            icon: 'fa-solid fa-ticket',
+            title: '选择题评估生成',
+            description: '创建多种主题的选择题评估。',
+            category: 'assessment',
+            isFavorited: false,
+            formFields: [],
+            actions: [{
+                name: 'openLink',
+                label: '获取智能体',
+                type: 'primary',
+                url: 'https://yuanqi.tencent.com/agent/AolEMzp3h0jy'
+            }]
+        },
+        {
+            icon: 'fa-solid fa-comments',
+            title: '讨论引导语生成',
+            description: '设计有趣的讨论引导语，促进课堂交流。',
+            category: 'engagement',
+            isFavorited: false,
+            formFields: [],
+            actions: [{
+                name: 'openLink',
+                label: '获取智能体',
+                type: 'primary',
+                url: 'https://yuanqi.tencent.com/agent/s8hZA9JPvhk7'
+            }]
+        },
+        {
+            icon: 'fa-solid fa-ruler',
+            title: '表现性任务设计工具',
+            description: '设计真实的表现性任务，评估学生的深度理解。',
+            category: 'engagement',
+            isFavorited: false,
+            formFields: [],
+            actions: [{
+                name: 'openLink',
+                label: '获取智能体',
+                type: 'primary',
+                url: 'https://yuanqi.tencent.com/agent/g6EqCe7eKo2o'
+            }]
+        }
+    ];
+
+    // 获取分类图标和名称
+    function getCategoryBadge(category) {
+        let icon, name;
+        switch (category) {
+            case 'planning':
+                icon = 'fa-solid fa-file-lines';
+                name = '课程设计';
+                break;
+            case 'assessment':
+                icon = 'fa-solid fa-chart-simple';
+                name = '评估工具';
+                break;
+            case 'engagement':
+                icon = 'fa-solid fa-users';
+                name = '课堂互动';
+                break;
+            default:
+                icon = 'fa-solid fa-tag';
+                name = category;
+        }
+        return `<i class="${icon}"></i>${name}`;
+    }
+
+    // 创建工具卡片
+    function createToolCard(tool) {
+        const card = document.createElement('div');
+        card.className = 'tool-card';
+        card.style.opacity = '1';
+        card.dataset.category = tool.category;
+
+        const header = document.createElement('div');
+        header.className = 'tool-header';
+
+        const icon = document.createElement('div');
+        icon.className = 'tool-icon';
+        icon.innerHTML = `<i class="${tool.icon}"></i>`;
+
+        const title = document.createElement('h3');
+        title.className = 'tool-title';
+        title.textContent = tool.title;
+
+        header.appendChild(icon);
+        header.appendChild(title);
+
+        const content = document.createElement('div');
+        content.className = 'tool-content';
+
+        const description = document.createElement('p');
+        description.className = 'tool-description';
+        description.textContent = tool.description;
+
+        const badge = document.createElement('span');
+        badge.className = `badge badge-${tool.category}`;
+        badge.innerHTML = getCategoryBadge(tool.category);
+
+        content.appendChild(description);
+        content.appendChild(badge);
+
+        const footer = document.createElement('div');
+        footer.className = 'tool-footer';
+
+        // 添加操作按钮
+        if (tool.actions && tool.actions.length > 0) {
+            tool.actions.forEach(action => {
+                const btn = document.createElement('button');
+                btn.className = action.type === 'primary' ? 'tool-btn' : 'tool-btn secondary';
+                
+                if (action.label === '英文文本') {
+                    btn.classList.add('english-text-btn');
+                } else if (action.label === '中文文本') {
+                    btn.classList.add('chinese-text-btn');
+                }
+
+                let iconClass = '';
+                switch (action.name) {
+                    case 'openLink':
+                        if (action.label === '长文本') {
+                            iconClass = 'fa-solid fa-link';
+                        } else if (action.label === '短文本') {
+                            iconClass = 'fa-solid fa-align-center';
+                        } else if (action.label === '获取智能体') {
+                            iconClass = 'fa-solid fa-robot';
+                        } else if (action.label === '英文文本') {
+                            iconClass = 'fa-solid fa-language';
+                        } else if (action.label === '中文文本') {
+                            iconClass = 'fa-solid fa-language';
+                        } else {
+                            iconClass = 'fa-solid fa-calendar-days';
+                        }
+                        break;
+                    default:
+                        iconClass = 'fa-solid fa-arrow-right';
+                }
+
+                btn.innerHTML = `<i class="${iconClass}"></i> ${action.label}`;
+                btn.addEventListener('click', () => {
+                    if (action.url) {
+                        window.open(action.url, '_blank');
+                    } else {
+                        window.open('./pa-template/index.html', '_blank');
+                    }
+                });
+                footer.appendChild(btn);
+            });
+        }
+
+        // 添加收藏按钮
+        const favoriteBtn = document.createElement('button');
+        favoriteBtn.className = 'add-to-list-btn';
+        favoriteBtn.setAttribute('aria-label', 'Add to favorites');
+        favoriteBtn.innerHTML = '<i class="fa-regular fa-star"></i>';
+
+        const isFavorited = localStorage.getItem('tool_' + tool.title) === 'true';
+        if (isFavorited) {
+            favoriteBtn.classList.add('added');
+            favoriteBtn.innerHTML = '<i class="fa-solid fa-star"></i>';
+            favoriteBtn.setAttribute('aria-label', 'Remove from favorites');
+        }
+
+        favoriteBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const isCurrentlyFavorited = favoriteBtn.classList.contains('added');
+            if (isCurrentlyFavorited) {
+                favoriteBtn.classList.remove('added');
+                favoriteBtn.innerHTML = '<i class="fa-regular fa-star"></i>';
+                favoriteBtn.setAttribute('aria-label', 'Add to favorites');
+                localStorage.removeItem('tool_' + tool.title);
+            } else {
+                favoriteBtn.classList.add('added');
+                favoriteBtn.innerHTML = '<i class="fa-solid fa-star"></i>';
+                favoriteBtn.setAttribute('aria-label', 'Remove from favorites');
+                localStorage.setItem('tool_' + tool.title, 'true');
+            }
+        });
+
+        footer.appendChild(favoriteBtn);
+
+        card.appendChild(header);
+        card.appendChild(content);
+        card.appendChild(footer);
+
+        return card;
+    }
+
+    // 渲染工具
+    function renderTools(toolsToRender) {
+        toolsGrid.innerHTML = '';
+        if (toolsToRender.length === 0) {
+            emptyState.style.display = 'flex';
+            toolsGrid.style.display = 'none';
+        } else {
+            emptyState.style.display = 'none';
+            toolsGrid.style.display = 'grid';
+            toolsToRender.forEach(tool => {
+                const toolCard = createToolCard(tool);
+                toolsGrid.appendChild(toolCard);
+            });
+        }
+    }
+
+    // 搜索功能
+    searchInput.addEventListener('input', () => {
+        filterTools();
+    });
+
+    resetBtn.addEventListener('click', () => {
+        searchInput.value = '';
+        filterTools();
+        searchInput.focus();
+    });
+
+    function filterTools() {
+        const searchTerm = searchInput.value.toLowerCase().trim();
+        const activeCategory = document.querySelector('.category-btn.active').dataset.category;
+        
+        const filteredTools = tools.filter(tool => {
+            const matchesSearch = tool.title.toLowerCase().includes(searchTerm) || 
+                                tool.description.toLowerCase().includes(searchTerm);
+            
+            let matchesCategory = true;
+            if (activeCategory === 'my-list') {
+                matchesCategory = localStorage.getItem('tool_' + tool.title) === 'true';
+            } else if (activeCategory !== 'all') {
+                matchesCategory = tool.category === activeCategory;
+            }
+            
+            return matchesSearch && matchesCategory;
+        });
+        
+        renderTools(filteredTools);
+    }
+
+    // 分类按钮事件
+    categoryBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            categoryBtns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            filterTools();
+        });
+    });
+
+    // 初始化
+    setTimeout(() => {
+        categoryBtns.forEach(btn => btn.classList.remove('active'));
+        const allBtn = document.querySelector('.category-btn[data-category="all"]');
+        if (allBtn) allBtn.classList.add('active');
+        renderTools(tools);
+        document.body.offsetHeight;
+    }, 0);
+
+    // 语言切换功能
+    const languageBtns = document.querySelectorAll('.language-btn');
+    languageBtns.forEach(btn => {
+        btn.addEventListener('click', function() {
+            const lang = this.dataset.lang;
+            if (lang === 'en') {
+                // 切换到英文版本
+                window.location.href = '../index.html';
+            } else if (lang === 'cn') {
+                // 移除其他按钮的active状态，添加到当前按钮
+                languageBtns.forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+            }
+        });
+    });
+});
